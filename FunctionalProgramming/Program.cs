@@ -11,7 +11,11 @@ namespace FunctionalProgramming
         static void Main(string[] args)
         {
              VowelConsonant.checkedAlphabet();
-            
+             SwapNumber.SwapTheNumber();
+            SwapNumber.SwapNumberWithoutVeriable();
+            LargestNumber.FindLargestNumber();
+            QuotionatAndReminder.QuotionatReminder();
+           EvenOdd.EvenAndOdd();
             Console.ReadKey();
            
         }
